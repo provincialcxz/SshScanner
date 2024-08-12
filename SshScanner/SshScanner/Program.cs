@@ -4,6 +4,10 @@ using System.Net.NetworkInformation;
 using System.Threading.Tasks;
 using Renci.SshNet;
 
+/*
+ssh <IP-адрес> whoami - позволит узнать username
+*/
+
 namespace SshScanner
 {
     class Program
